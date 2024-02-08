@@ -1,6 +1,6 @@
 [submodule "roles/os_common"]
 	path = roles/os_common
 	url = git@github.com:shmii/os_common.git
-[submodule "roles/os-update-all"]
-	path = roles/os-update-all
-	url = git@github.com:shmii/os-update-all.git
+[submodule "roles/os_update_all"]
+	path = roles/os_update_all
+	url = git@github.com:shmii/os_update_all.git
