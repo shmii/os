@@ -1,2 +1,3 @@
-# os
-Ansible Collection to provide OS tools (shmii.os)
+# Ansible Collection - shmii.os
+
+Documentation for the collection.
